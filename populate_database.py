@@ -115,4 +115,10 @@ session.add(categoryItem1)
 session.commit()
 
 
+categoryItem1 = CategoryItem(user_id=1, name="Run Fast Eat Slow",
+                             description="New York Times bestseller Run Fast. Eat Slow. taught runners of all ages that healthy food could be both indulgent and incredibly nourishing.",
+                             categories=category11)
+session.add(categoryItem1)
+session.commit()
+
 print "added category items!"
