@@ -8,7 +8,7 @@ Assuming that you working on linux OS.
 <code>pip install -r requirements.txt</code><br>
 <code>python project.py</code>
 
-### Now open your browser and type in
+### In browser, type in
 ```
 http://localhost:8000
 ```
