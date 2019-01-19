@@ -11,3 +11,14 @@ Assuming that you working on linux OS.
 ```
 http://localhost:8000
 ```
+### API Endpoints
+
+```
+http://localhost:8000/catalog/JSON
+```
+```
+http://localhost:8000/catalog/6/8/JSON
+```
+```
+http://localhost:8000/catalog/6/JSON
+```
