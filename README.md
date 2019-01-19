@@ -5,7 +5,7 @@ Assuming that you working on linux OS.
 
 <code>python database_setup.py</code><br>
 <code>python populate_database.py</code><br>
-<code>pip install -r requirements.txt<code><br>
+<code>pip install -r requirements.txt</code><br>
 <code>python project.py</code>
 
 ### Now open your browser and type in
