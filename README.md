@@ -18,8 +18,9 @@ http://localhost:8000
 http://localhost:8000/catalog/JSON
 ```
 ```
-http://localhost:8000/catalog/6/8/JSON
-```
-```
 http://localhost:8000/catalog/6/JSON
 ```
+```
+http://localhost:8000/catalog/6/8/JSON
+```
+
